@@ -1,0 +1,25 @@
+body{
+	background: yellow;
+}
+h1{
+	color: red; 
+	font-size: 48px;
+	font-family: 'Oswald', cursive;
+}
+h2{
+	color: blue;
+	font-size: 48px;
+}
+img{
+
+	width: 300px;	
+}
+
+.img-rotate:hover{
+	width: 400px;
+	transform: rotate(360deg);
+	transition: 2s;
+}
+.red:{
+	width: 1000px;
+}
